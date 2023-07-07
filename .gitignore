@@ -130,7 +130,7 @@ dmypy.json
 .pyre/
 
 
-# sqlite Database 
+# sqlite Database
 db.sqlite
 API/migrations
 
@@ -138,3 +138,4 @@ API/migrations
 Web Scraping/Alta Data/Products
 Web Scraping/Alta Data/Photos
 Web Scraping/Data/Photos
+
